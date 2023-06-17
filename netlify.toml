@@ -1,0 +1,20 @@
+[build]
+command = 'hugo'
+publish = 'public'
+
+[build.environment]
+HUGO_VERSION = '0.113.0'
+
+[context]
+[context.branch-deploy]
+HUGO_VERSION = '0.113.0'
+command = 'hugo -F -b $DEPLOY_PRIME_URL'
+
+[context.deploy-preview]
+HUGO_VERSION = '0.113.0'
+command = 'hugo -F -b $DEPLOY_PRIME_URL'
+
+[context.production]
+[context.production.environment]
+HUGO_VERSION = '0.113.0'
+HUGO_ENV = 'production'
