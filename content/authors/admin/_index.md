@@ -50,4 +50,4 @@ title: Elvio Blini
 ---
 
 Elvio A. Blini is Assistant Professor at the University of Florence since 2023. His main interests revolve around cognitive neuropsychology and the cognitive neuroscience of spatial attention, assessed with a whealth of neuroimaging and neurostimulation techniques. 
-{style="text-align: justify;"}
+
