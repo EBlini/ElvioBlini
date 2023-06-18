@@ -28,7 +28,7 @@ This may take some time to be built and then, eventually, may be quickly forgott
 Also...
 
 ```r
-#better start with the right feet!
+#better start with the right foot!
 print('Hello World!')
 
 ```

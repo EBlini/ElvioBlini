@@ -200,6 +200,7 @@ sections:
   id: talks
 - block: collection
   content:
+    count: 1
     date_format: 2006
     filters:
       featured_only: false
@@ -212,6 +213,7 @@ sections:
   id: featured
 - block: collection
   content:
+    count: 1
     date_format: 2006
     filters:
       exclude_featured: true
