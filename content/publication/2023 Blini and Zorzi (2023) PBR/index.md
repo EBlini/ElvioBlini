@@ -5,7 +5,7 @@
 authors:
 - admin
 - Marco Zorzi
-date: "2023"
+date: "2023-01-01"
 doi: "10.3758/s13423-022-02192-z"
 featured: true
 # image:
