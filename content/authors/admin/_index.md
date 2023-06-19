@@ -40,9 +40,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/elvio-blini-1043317a/
-- icon: cv
-  icon_pack: ai
-  link: my_uploads/resume.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: my_uploads/resume.pdf
 status:
   icon: ☕️
 superuser: true
