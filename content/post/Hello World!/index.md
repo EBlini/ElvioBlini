@@ -17,6 +17,7 @@ subtitle: "Stay tuned and perhaps something will come out of this little side-pr
 summary: "This website starts today."
 tags:
 - Various
+show_comments: true
 title: Hello World!
 ---
 

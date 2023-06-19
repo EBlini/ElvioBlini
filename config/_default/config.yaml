@@ -80,3 +80,29 @@ sitemap:
   _merge: deep
 minify:
   _merge: deep
+
+#provider: 'utterances'
+utterances:
+    issue_term: pathname
+    label: 'Comments'
+    repo_name: EBlini/blog-comments
+    theme: github-light
+    use_utterances: yes
+
+#utterances for blog comments
+# # Configuration of https://utteranc.es/ for comments
+#   [params.utterances]
+#     use_utterances = true
+#     repo_name = "EBlini/blog-comments"
+#     issue_term = "pathname" # url, pathname, or title
+#     theme = "boxy-light"
+#     label = "comments"
+
+# utterances:
+#     issue_term: pathname
+#     label: 'comments'
+#     repo_name: EBlini/blog-comments
+#     theme: boxy-light
+#     use_utterances: yes
+
+
