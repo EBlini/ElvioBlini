@@ -203,7 +203,7 @@ sections:
     count: 1
     date_format: 2006
     filters:
-      featured_only: false
+      featured_only: true
       folders:
       - publication
     title: Featured Publications
