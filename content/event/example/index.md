@@ -21,14 +21,14 @@ links:
   #icon_pack: fab
   name: Follow
   url: https://twitter.com/e_blini
-#location: Various
+location: Various
 projects:
 - example
 publishDate: "2023-06-17T00:00:00Z"
 #slides: example
 summary: Materials and slides for my talks so far are hosted on 
   the **Open Science Framework** [website](https://osf.io/5rqy3/).
-tags: [talk]
+tags: [talks]
 title: Talks and various material
 url_code: ""
 url_pdf: "https://osf.io/5rqy3/"
