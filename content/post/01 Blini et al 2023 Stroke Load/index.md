@@ -11,7 +11,7 @@ categories:
 - unilateral spatial neglect
 - machine learning
 - predictive modelling
-date: "2023-06-16T00:00:00Z"
+date: "2023-10-16T00:00:00Z"
 draft: false
 featured: false
 image:

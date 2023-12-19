@@ -5,7 +5,7 @@ categories:
 - Misc
 date: "2023-06-16T00:00:00Z"
 draft: false
-featured: false
+featured: true
 image:
   caption: 'Work in progress'
   focal_point: ""
