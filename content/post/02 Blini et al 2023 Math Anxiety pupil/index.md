@@ -18,7 +18,7 @@ image:
   focal_point: ""
   placement: 2
   preview_only: false
-lastmod: "2023-10-16T00:00:00Z"
+lastmod: "2023-12-19T00:00:00Z"
 projects: [Pupilla]
 summary: "**Can pupil size detect signatures of math anxiety in young adults?**  
 In a new preprint we attempt to respond to the question. In short: math anxiety and low math performance are deeply ingrained in young adults, which makes it hard to disentangle these two aspects. Pupillometry does show, however, that cognitive effort is prolonged, rather than accentuated, in young adults with high levels of test (i.e., performance) anxiety.
