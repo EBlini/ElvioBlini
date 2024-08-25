@@ -36,7 +36,7 @@ tags:
 title: "Pupil size as a robust marker of attentional bias toward nicotine-related stimuli in smokers"
 #url_code: https://www.frontiersin.org/articles/10.3389/fpsyg.2013.00190/full
 #url_dataset: ""
-url_pdf: uploads/papers/2023 Blini and Zorzi (2023) PBR.pdf
+url_pdf: /uploads/papers/2023 Blini and Zorzi (2023) PBR.pdf
 url_poster: ""
 url_project: ""
 url_slides: ""
