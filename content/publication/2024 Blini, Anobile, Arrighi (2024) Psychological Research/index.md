@@ -30,7 +30,7 @@ tags:
 - attentional capture
 - pupil dilation
 - pupillometry
-- autonomic response 
+- autonomic response
 - interoception
 title: "What pupil size can and cannot tell about math anxiety"
 #url_code: https://www.frontiersin.org/articles/10.3389/fpsyg.2013.00190/full
@@ -43,5 +43,4 @@ url_source: ""
 url_video: ""
 ---
 
- 
 Math Anxiety (MA) consists of excessive fear and worry about math-related situations. It represents a major barrier to numerical competence and the pursuit of STEM careers. Yet, we currently do not dispose of many tools that can capture its multifaceted nature, e.g. moving beyond the exclusive reliance on self-reports and meta-cognition. Here we sought to probe Pupil Size (PS) as a viable tool in the study of MA by administering arithmetic problems to university students in the humanities (N = 70) with various levels of MA. We found that arithmetic competence and performance are indeed negatively associated with MA, and this is accurately tracked by PS. When performance is accounted for, MA does not further modulate PS (before, during, or after calculation). However, the latency of PS peak dilation can add a significant contribution to predicting MA scores, indicating that high MA may be accompanied by more prolonged cognitive effort. Results show that MA and mathematical competence may be too crystalized in young university students to be discernible. We therefore call for early educational interventions to tackle and mitigate this dysfunctional association early on.
