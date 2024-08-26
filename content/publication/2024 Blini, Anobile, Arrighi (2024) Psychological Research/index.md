@@ -9,10 +9,6 @@ authors:
 date: "2024-01-01"
 doi: "10.1007/s00426-024-02020-0"
 featured: false
-# image:
-#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-#   focal_point: ""
-#   preview_only: false
 projects: [Pupilla]
 publication: '*Psychological Research*,  10.1007/s00426-024-02020-0'
 publication_short: ""
@@ -35,7 +31,7 @@ tags:
 title: "What pupil size can and cannot tell about math anxiety"
 #url_code: https://www.frontiersin.org/articles/10.3389/fpsyg.2013.00190/full
 #url_dataset: ""
-url_pdf: uploads/papers/2024 Blini, Anobile, Arrighi PR.pdf
+url_pdf: uploads/papers/2024Blini,Anobile,ArrighiPR.pdf
 url_poster: ""
 url_project: ""
 url_slides: ""
