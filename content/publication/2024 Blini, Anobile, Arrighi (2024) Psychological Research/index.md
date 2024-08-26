@@ -31,7 +31,7 @@ tags:
 title: "What pupil size can and cannot tell about math anxiety"
 #url_code: https://www.frontiersin.org/articles/10.3389/fpsyg.2013.00190/full
 #url_dataset: ""
-url_pdf: uploads/papers/2024Blini,Anobile,ArrighiPR.pdf
+url_pdf: https://link.springer.com/content/pdf/10.1007/s00426-024-02020-0.pdf
 url_poster: ""
 url_project: ""
 url_slides: ""
