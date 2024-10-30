@@ -22,7 +22,7 @@ links:
   name: Follow
   url: https://twitter.com/e_blini
 location: Online
-publishDate: "2024-11-01T00:00:00Z"
+publishDate: "2024-10-30T00:00:00Z"
 #slides: example
 summary: This is a quick overview of my research interests and works so far (2013-2025). Mostly prepared for the University of Florence, I appreciate that it gave me the opportunity to highlight - first and foremost for myself - the *fil rouge* in my research. The slides are hosted on the **Open Science Framework** [website](https://osf.io).
 tags: [talks]
