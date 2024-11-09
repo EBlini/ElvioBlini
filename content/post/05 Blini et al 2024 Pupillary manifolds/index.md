@@ -19,7 +19,7 @@ featured: true
 image:
   caption: 'Phasic changes in pupil size are inherently low-dimensional: three rotated components suffice to reconstruct most changes. [Blini et al., 2024](https://www.nature.com/articles/s41598-024-78772-x)'
   focal_point: ""
-  placement: 2
+  placement: 1
   preview_only: false
 lastmod: "2024-11-09T00:00:00Z"
 projects: [Pupilla]
