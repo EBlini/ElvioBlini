@@ -8,10 +8,9 @@ authors:
 date: "2023-01-01"
 doi: "10.3758/s13423-022-02192-z"
 featured: true
-# image:
-#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-#   focal_point: ""
-#   preview_only: false
+image:
+  placement: 3
+
 projects: [Pupilla]
 publication: '*Psychon Bull Rev*, 30, 596–607'
 publication_short: ""

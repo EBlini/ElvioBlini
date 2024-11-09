@@ -14,7 +14,7 @@ publication: '*Wiley Interdisciplinary Reviews: Cognitive Science*, e1695'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2024"
+publishDate: "2024-02-02"
 #slides: example
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
 #   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
