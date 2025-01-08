@@ -6,15 +6,15 @@ authors:
 - Claudia Pelagatti
 - admin
 - Manila Vannucci
-date: "2024-02-02"
+date: "2025-01-01"
 doi: "https://doi.org/10.1002/wcs.1695"
 featured: false
 projects: [Pupilla]
-publication: '*Wiley Interdisciplinary Reviews: Cognitive Science*, e1695'
+publication: '*Wiley Interdisciplinary Reviews: Cognitive Science*, 16(1), e1695'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2024-02-02"
+publishDate: "2025-01-01"
 #slides: example
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
 #   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.

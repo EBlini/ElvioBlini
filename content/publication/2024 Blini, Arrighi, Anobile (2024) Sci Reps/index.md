@@ -10,7 +10,7 @@ date: "2024-11-81"
 doi: "10.1038/s41598-024-78772-x"
 featured: true
 projects: [Pupilla]
-publication: '*Scientific Reports*, 14, 27306.  10.1038/s41598-024-78772-x'
+publication: '*Scientific Reports*, 14(1), 27306.  10.1038/s41598-024-78772-x'
 publication_short: ""
 publication_types:
 - "2"

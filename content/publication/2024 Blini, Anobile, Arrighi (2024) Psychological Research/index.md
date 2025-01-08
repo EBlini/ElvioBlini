@@ -10,7 +10,7 @@ date: "2024-01-01"
 doi: "10.1007/s00426-024-02020-0"
 featured: false
 projects: [Pupilla]
-publication: '*Psychological Research*, 88, 2455–2468.  10.1007/s00426-024-02020-0'
+publication: '*Psychological Research*, 88(8), 2455–2468.  10.1007/s00426-024-02020-0'
 publication_short: ""
 publication_types:
 - "2"
