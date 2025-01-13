@@ -7,7 +7,7 @@ authors:
 - Elisa Castaldi
 - admin
 - Roberto Arrighi
-date: "2025-02-01"
+date: "2025-01-01"
 doi: "https://doi.org/10.1016/j.actpsy.2025.104720"
 featured: false
 projects: [Pupilla]
@@ -15,7 +15,7 @@ publication: '*Acta Psychologica*, 253, 104720.'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2025-02-01"
+publishDate: "2025-01-01"
 #slides: example
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
 #   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
