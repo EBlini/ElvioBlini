@@ -32,15 +32,15 @@ tags:
 - stroke
 - attentional load
 - visuo-spatial attention
-- FCnet
+- FCnet<br>
 - dual task
 - extinction
 - unilateral spatial neglect
-- machine learning
+- machine learning<br>
 - predictive modelling
 - multiple demands system
 - spatial awareness
-- eye movements
+- eye movements<br>
 - statistical learning
 - free viewing
 - dimensionality reduction

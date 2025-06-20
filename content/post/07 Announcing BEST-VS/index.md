@@ -5,11 +5,11 @@ categories:
 - vestibular stimulation
 - galvanic vestibular stimulation
 - visuo-spatial attention
-- interoception
+- interoception<br>
 - machine learning
 - eye movements
 - dimensionality reduction
-- feature extraction
+- feature extraction<br>
 - Pupilla
 - autonomic response
 - pupil dilation
