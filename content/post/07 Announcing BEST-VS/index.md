@@ -39,7 +39,10 @@ tags:
 - pupillometry
 title: Announcing BEST-VS!
 subtitle: "Behavioral, autonomic, and Electrophysiological SignaTures of Vestibular Stimulation"
-summary: "A new funded project will bring me to Rovereto to study the behavioral, autonomic, and electrophysiological correlates of vestibular stimulation"  
+summary: "A new funded project will bring me to<br>
+Rovereto to study the behavioral, autonomic,<br>
+and electrophysiological correlates of<br>
+vestibular stimulation"  
 
 ---
 
