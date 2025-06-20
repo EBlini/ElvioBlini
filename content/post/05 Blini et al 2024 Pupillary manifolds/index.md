@@ -23,7 +23,8 @@ image:
   preview_only: false
 lastmod: "2024-11-09T00:00:00Z"
 projects: [Pupilla]
-summary: "**Pupillary manifolds: uncovering the latent geometrical structures behind phasic changes in pupil size.** We show that phasic changes in pupil size are inherently low-dimensional: they can be reconducted to a latent manifold that efficiently represents autonomic balance."
+summary: "**Pupillary manifolds: uncovering the latent geometrical structures behind phasic changes in pupil size.**   
+We show that phasic changes in pupil size are inherently low-dimensional: they can be reconducted to a latent manifold that efficiently represents autonomic balance."
 tags:
 - Pupilla
 - pupil dilation

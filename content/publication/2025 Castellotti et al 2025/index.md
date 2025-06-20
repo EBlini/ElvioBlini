@@ -11,7 +11,7 @@ date: "2025-01-01"
 doi: "https://doi.org/10.1016/j.actpsy.2025.104720"
 featured: false
 projects: [Pupilla]
-publication: '*Acta Psychologica*, 253, 104720.'
+publication: '*Acta Psychologica*, 253, 104720'
 publication_short: ""
 publication_types:
 - "2"
