@@ -24,19 +24,21 @@ sections:
 #     title: Skills
 - block: experience
   content:
+    title: Positions 
     date_format: Jan 2006
     items:
+    - company: Center for Mind/Brain Sciences, University of Trento
+      company_logo: logo_cimec
+      company_url: ""
+      date_end: ""
+      date_start: "2025-07-01"
+      location: Rovereto, ITA
+      title: Assistant Professor (RTDa)    
     - company: University of Florence
       company_logo: Logo_unifi
       company_url: ""
-      date_end: ""
+      date_end: "2025-06-30"
       date_start: "2023-01-15"
-      # description: |2-
-      #     Responsibilities include:
-      # 
-      #     * Analysing
-      #     * Modelling
-      #     * Deploying
       location: Firenze, ITA
       title: Assistant Professor (RTDa)
     - company: University of Padua

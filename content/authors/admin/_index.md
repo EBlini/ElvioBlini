@@ -14,13 +14,13 @@ highlight_name: false
 interests:
 - Cognitive Neuropsychology
 - Spatial Attention
-- Motivation
+- Numerical Cognition
 - Pupillometry
 last_name: Blini
 organizations:
-- name: University of Firenze
-  url: https://www.unifi.it/
-role: Assistant Professor of Psychobiology and Physiological Psychology 
+- name: Center for Mind/Brain Sciences, University of Trento
+  url: https://www.cimec.unitn.it/
+role: Assistant Professor of General Psychology 
 social:
 - icon: envelope
   icon_pack: fas
@@ -46,8 +46,8 @@ social:
 status:
   icon: ☕️
 superuser: true
-title: Elvio Blini
+title: Elvio A. Blini
 ---
 
-Elvio A. Blini is Assistant Professor at the University of Florence since 2023. His main interests revolve around cognitive neuropsychology and the cognitive neuroscience of spatial attention, assessed with a whealth of neuroimaging and neurostimulation techniques. 
+I am Assistant Professor at the Center for Mind/Brain Sciences of the University of Trento. My main interests revolve around cognitive neuropsychology and the cognitive neuroscience of spatial attention, assessed with a wealth of neuroimaging and neurostimulation techniques. 
 

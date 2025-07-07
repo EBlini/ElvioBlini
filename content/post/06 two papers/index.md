@@ -32,15 +32,15 @@ tags:
 - stroke
 - attentional load
 - visuo-spatial attention
-- FCnet<br>
+- FCnet
 - dual task
 - extinction
 - unilateral spatial neglect
-- machine learning<br>
+- machine learning
 - predictive modelling
 - multiple demands system
 - spatial awareness
-- eye movements<br>
+- eye movements
 - statistical learning
 - free viewing
 - dimensionality reduction
@@ -79,7 +79,7 @@ Then, a second paper in on the way!
 
 ![From Cinetto et al. (2025)](cinettoetal.jpg)
 
-The work is led by Sebastiano Cinetto [Cinetto et al., 2025]()
+The work is led by Sebastiano Cinetto [Cinetto et al., 2025](https://link.springer.com/article/10.3758/s13423-025-02703-8)
 
 Sebastiano has been working relentlessly on this fascinating topic since his undergraduate studies. The first piloting of what became this experiment, I remember, took place in Padova during a period of severe covid19-related restrictions. But Sebastiano managed to get the most out of it and his Ph.D., and even pre-registered the protocol for this study.
 
@@ -91,7 +91,7 @@ Our findings reveal that experience-driven learning during search can spill over
 
 So you can see very well how the two papers are deeply connected.
 
-The article is scheduled to appear soon (I will update with the link). 
+The article is openly available here: https://link.springer.com/article/10.3758/s13423-025-02703-8. 
 
 
 Stay tuned for further updates!!!
