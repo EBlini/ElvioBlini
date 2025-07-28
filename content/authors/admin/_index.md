@@ -8,7 +8,7 @@ education:
   - course: M.Sc. Psychology - Neuropsychology
     institution: University of Milano - Bicocca
     year: 2011
-email: "elvioadalberto.blini@unifi.it"
+email: "elvio.blini@unitn.it"
 first_name: Elvio
 highlight_name: false
 interests:

@@ -203,12 +203,12 @@ sections:
 - block: contact
   content:
     address:
-      city: Firenze
+      city: Rovereto
       country: Italia
       country_code: IT
-      postcode: "50135"
-      region: Toscana
-      street: via di San Salvi 12, edificio 26
+      postcode: "38068"
+      region: Trentino Alto Adige
+      street: corso Bettini, 31, palazzo Fedrigotti
     #appointment_url: https://calendly.com
     autolink: true
     contact_links:
@@ -225,7 +225,7 @@ sections:
     #   link: https://zoom.com
     #   name: Zoom Me
     #directions: Only on appointment by email.
-    email: elvioadalberto.blini@unifi.it
+    email: elvio.blini@unitn.it
     form:
       formspree:
         id: null
